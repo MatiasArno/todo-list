@@ -1,0 +1,22 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+body {
+  min-width: 375px;
+  height: 100vh;
+  background-color: #ffefd9;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.root {
+  width: calc(100% - 30px);
+  height: calc(100% - 30px);
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */

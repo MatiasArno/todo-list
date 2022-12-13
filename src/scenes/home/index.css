@@ -1,0 +1,9 @@
+.items-list {
+    height: calc(100% - 63px);
+    background-color: rgb(255, 248, 238);
+    overflow: scroll;
+}
+
+.add-items {
+    height: 63px;
+}

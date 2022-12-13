@@ -1,0 +1,11 @@
+.items-list {
+  height: calc(100% - 63px);
+  background-color: #fff8ee;
+  overflow: scroll;
+}
+
+.add-items {
+  height: 63px;
+}
+
+/*# sourceMappingURL=index.d2e8b574.css.map */

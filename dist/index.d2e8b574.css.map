@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["src/scenes/home/index.css"],"sourcesContent":[".items-list {\r\n    height: calc(100% - 63px);\r\n    background-color: rgb(255, 248, 238);\r\n    overflow: scroll;\r\n}\r\n\r\n.add-items {\r\n    height: 63px;\r\n}"],"names":[],"version":3,"file":"index.d2e8b574.css.map","sourceRoot":"/__parcel_source_root/"}
